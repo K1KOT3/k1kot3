@@ -1,5 +1,3 @@
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
-
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Enrique </h1>
 <h3 align="center">I’m a cybersecurity enthusiast from Spain <img src="https://icons.iconarchive.com/icons/twitter/twemoji-flags/128/Spain-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
 
@@ -13,6 +11,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,solidity,bash,md,processing" /> </a> </p>
 <h3 align="center">Operating Systems</h3>
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,debian,mint,ubuntu,kali,windows" /> </a> </p>
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">Databases | Version Control | IDE´s</h3>
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode,eclipse,phpstorm,powershell" /> </a> </p>
 <h3 align="center">Frameworks | Libraries | DevOps</h3>
