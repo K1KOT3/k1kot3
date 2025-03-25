@@ -11,25 +11,14 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
 <h3 align="center">Programming Languages</h3>
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,solidity,bash,md,processing" /> </a> </p>
-<h3 align="center">Databases</h3>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </a> </p>
-<h3 align="center">Version Control & Collaboration</h3>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github" /> </a> </p>
 <h3 align="center">Operating Systems</h3>
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,debian,mint,ubuntu,kali,windows" /> </a> </p>
-<h3 align="center">IDEs & Code Editors</h3>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=eclipse,vscode,phpstorm,powershell" /> </a> </p>
-<h3 align="center">Frameworks & Libraries</h3>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=angular,redux,sass,jquery,bootstrap" /> </a> </p>
-<h3 align="center">Development & DevOps Tools</h3>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,cloudflare,elasticsearch" /> </a> </p>
-<h3 align="center">Design & Multimedia Tools</h3>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=ae,ai,pr,figma,obsidian" /> </a> </p>
-<h3 align="center">Hardware & Electronics</h3>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /> </a> </p>
-<h3 align="center">Content Management & Documentation</h3>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=wordpress,latex,stackoverflow" /> </a> </p>
-
+<h3 align="center">Databases | Version Control | IDE´s</h3>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode,eclipse,phpstorm,powershell" /> </a> </p>
+<h3 align="center">Frameworks | Libraries | DevOps</h3>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=angular,wordpress,redux,sass,jquery,bootstrap,docker,cloudflare,elasticsearch" /> </a> </p>
+<h3 align="center">Design | Multimedia | Documentation | Hardware</h3>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=ae,ai,pr,figma,obsidian,latex,stackoverflow,arduino,raspberrypi" /> </a> </p>
 <!-- 
 
 ### Here are my last posts on:
