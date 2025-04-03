@@ -14,7 +14,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <h3 align="center">Operating Systems</h3>
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,debian,mint,ubuntu,kali,windows" /> </a> </p>
 <h3 align="center">Databases | Version Control | IDE´s</h3>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode,eclipse,phpstorm,powershell" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode,phpstorm,powershell" /> </a> </p>
 <h3 align="center">Frameworks | Libraries | DevOps</h3>
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=angular,wordpress,redux,sass,jquery,bootstrap,docker,cloudflare,elasticsearch" /> </a> </p>
 <h3 align="center">Design | Multimedia | Documentation | Hardware</h3>
