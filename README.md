@@ -10,7 +10,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">Programming Languages</h3>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,solidity,bash,md,processing" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,php,py,bash,md,processing" /> </a> </p>
 <h3 align="center">Operating Systems</h3>
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,debian,mint,ubuntu,kali,windows" /> </a> </p>
 <h3 align="center">Databases | Version Control | IDE´s</h3>
